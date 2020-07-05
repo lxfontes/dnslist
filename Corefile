@@ -1,0 +1,5 @@
+in-addr.arpa.:8053 {
+  grpc . 127.0.0.1:3030
+  cache 30
+  log
+}
